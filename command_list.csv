@@ -1,0 +1,16 @@
+  129  cd hw_10
+  130  pwd
+  131  ls
+  132  git branch
+  133  git commit -m "v3"
+  134  git status
+  135  git add .
+  136  git commit -m "v4"
+  137  git checkout main
+  138  git merge develop
+  139  git log
+  140  git log
+  141  git log
+  142  git bash
+  143  git history > command_list.csv
+  144  git
